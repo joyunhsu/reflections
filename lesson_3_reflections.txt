@@ -1,0 +1,2 @@
+when would you want to create a remote repository rather han keeping all your work local?
+sharing files with other. working on rather big project. to have better security. 
